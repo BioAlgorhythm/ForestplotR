@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite it as below."
+authors:
+  - family-names: Camera
+    given-names: Andrea
+    orcid: https://orcid.org/0000-0002-9172-5589
+title: "Forest Plot Generation in R"
+version: 1.0
+date-released: 2025-02-03
+url: "https://github.com/BioAlgorhythm/ForestplotR"
